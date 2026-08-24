@@ -1,7 +1,7 @@
 # Analisis del pipeline - Lab 1b
 
 **Curso:** ST1630-2026-2 - **Semana:** S5-S6 - **Fecha:** 2026-08-20  
-**Estudiante:** efcortesr
+**Estudiante:** Emmanuel Felipe Cortes Rincon - Sara Hurtado Metaute - Juan Jose Osorio - Mariana Sanchez
 
 ## Estado de ejecucion
 
