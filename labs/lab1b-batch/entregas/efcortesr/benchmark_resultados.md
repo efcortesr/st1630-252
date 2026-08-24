@@ -1,6 +1,7 @@
 # Resultados del benchmark Athena — Lab 1b
 
 **Curso:** ST1630-2026-2 · **Semana:** S5-S6 · **Generado:** ejecución de `04_athena_benchmark.py`
+**Estudiante:** Emmanuel Felipe Cortes Rincon - Sara Hurtado Metaute - Juan Jose Osorio - Mariana Sanchez
 
 ## Resultados crudos
 
