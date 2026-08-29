@@ -1,7 +1,7 @@
 # Prueba de idempotencia - Lab 2a
 
 **Curso:** ST1630-2026-2 - **Semana:** S6-S7 - **Fecha:** 2026-08-26  
-**Estudiante:** efcortesr
+**Estudiante:** Emmanuel Cortes, Sara Hurtado, Juan Jose Osorio, Mariana Sanchez
 
 ## Configuracion de la prueba
 
