@@ -1,7 +1,7 @@
 # Diseno Kafka - Lab 2a
 
 **Curso:** ST1630-2026-2 - **Semana:** S6-S7 - **Fecha:** 2026-08-26  
-**Estudiante:** efcortesr
+**Estudiante:** Emmanuel Cortes, Sara Hurtado, Juan Jose Osorio, Mariana Sanchez
 
 ## Evidencia de ejecucion
 
