@@ -1,6 +1,6 @@
 # Lab 2a - Productor/consumidor Kafka
 
-**Estudiante:** efcortesr  
+**Estudiante:** Emmanuel Cortes, Sara Hurtado, Juan Jose Osorio, Mariana Sanchez 
 **Fecha de ejecucion:** 2026-08-26  
 **Cluster local:** Kafka KRaft de 1 broker via `../docker-compose.yml`
 
