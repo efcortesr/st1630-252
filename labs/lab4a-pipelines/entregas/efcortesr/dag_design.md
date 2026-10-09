@@ -63,7 +63,7 @@ Un backfill ejecuta el DAG para fechas históricas usando la fecha lógica de ca
 docker compose exec airflow-scheduler airflow dags backfill -s 2026-01-01 -e 2026-01-07 ventas_colombia_pipeline
 ```
 
-**Resultado:** siete corridas exitosas, cada una con `ingest_bronze`, `validate_bronze`, `transform_silver` y `build_gold` en `success`. El grafo exportado por Airflow está en `capturas/graph_view.png`.
+**Resultado:** siete corridas exitosas, cada una con `ingest_bronze`, `validate_bronze`, `transform_silver` y `build_gold` en `success`. Las capturas de Grid, Graph y del log de validación están en `capturas/`.
 
 ## Fallo provocado
 
